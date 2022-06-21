@@ -7,3 +7,7 @@ Al ejecutar el juego, verás una pantalla que te pide adivinar un número aleato
 
 Lo único que tienes que hacer es introducir números (enteros) hasta que adivines.
 Tienes 3 intentos!
+
+
+Para jugar en una plataforma Windows, descarga el archivo .exe de la carpeta compiled y ejecútalo.
+En linux, descarga el binario y en el bash escribe ./AdivinaElNumero y listo.
