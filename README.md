@@ -9,5 +9,5 @@ Lo único que tienes que hacer es introducir números (enteros) hasta que adivin
 Tienes 3 intentos!
 
 
-Para jugar en una plataforma Windows, descarga el archivo .exe de la carpeta compiled y ejecútalo.
+Para jugar en una plataforma Windows, descarga el archivo .exe de la carpeta COMPILED y ejecútalo.
 En linux, descarga el binario y en el bash escribe ./AdivinaElNumero y listo.
