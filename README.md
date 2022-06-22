@@ -1,5 +1,5 @@
 # Adivina El Número
-Este es mi primer proyecto hecho en C++, espero les guste xd
+Este es mi primer juego hecho en C++, espero les guste xd
 
 
 Al ejecutar el juego, verás una pantalla que te pide adivinar un número aleatorio del 1 al 10.
